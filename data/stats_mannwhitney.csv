@@ -1,0 +1,11 @@
+Par,p (Bonferroni),r (effect),Sig. α=0.05
+QL×QL k=1 vs QL×QL ruído,1.66e-05,0.721,✓
+QL×QL k=1 vs QL×QL k=2,1.00e+00,-0.04,✗
+QL×QL k=1 vs QL×TFT,3.01e-10,1.0,✓
+QL×QL k=1 vs QL×AllD,2.99e-10,-1.0,✓
+QL×QL ruído vs QL×QL k=2,4.72e-05,-0.689,✓
+QL×QL ruído vs QL×TFT,3.00e-10,1.0,✓
+QL×QL ruído vs QL×AllD,2.98e-10,-1.0,✓
+QL×QL k=2 vs QL×TFT,3.01e-10,1.0,✓
+QL×QL k=2 vs QL×AllD,2.99e-10,-1.0,✓
+QL×TFT vs QL×AllD,2.98e-10,-1.0,✓
